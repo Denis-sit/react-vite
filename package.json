@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Denis-sit.github.io/github.io/react-vite",
+  "homepage": "https://Denis-sit.github.io/react-vite/",
+
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
